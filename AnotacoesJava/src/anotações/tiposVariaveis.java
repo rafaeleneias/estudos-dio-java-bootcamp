@@ -1,3 +1,4 @@
+package anotações;
 public class tiposVariaveis {
     public static void main(String[] args) throws Exception {
       // Variável é uma identificação de um espaço em memória utilizado pelo nosso programa. Na linguagem Java, toda variável é
